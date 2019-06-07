@@ -13,7 +13,7 @@ public class OpenBrowser {
 		driver.manage().window().maximize();
 		
 		driver.get("https://www.google.com/");
-		System.out.println("**************Done*****************")
+		System.out.println("**************Done*****************");
 		driver.close();
 	}
 
