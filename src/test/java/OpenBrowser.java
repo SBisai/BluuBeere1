@@ -14,7 +14,7 @@ public class OpenBrowser {
 		
 		driver.get("https://www.google.com/");
 		System.out.println("**************Done*****************");
-		System.out.println("Testing done by Soumitra");
+		System.out.println("Testing done by Soumitra Bisai");
 		driver.close();
 	}
 
